@@ -1,5 +1,5 @@
 const Diaries = () => {
-    return <></>
+    return <div>ここは日記だよ</div>
 }
 
 export default Diaries
