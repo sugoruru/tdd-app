@@ -1,4 +1,4 @@
-import type { DiaryProps } from "./typing/diary";
+import type { DiaryProps } from "./types/diary";
 
 const Diary = (props: DiaryProps) => {
     return <div>
